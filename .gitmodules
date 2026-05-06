@@ -1,0 +1,6 @@
+[submodule "upstream/swaywm"]
+	path = upstream/swaywm
+	url = https://github.com/swaywm/sway
+[submodule "upstream/i3wm"]
+	path = upstream/i3wm
+	url = https://github.com/i3/i3
